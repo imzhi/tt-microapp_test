@@ -1,0 +1,13 @@
+{
+    "name": "yxz/tt-microapp_test",
+    "type": "project",
+    "require": {
+        "96qbhy/tt-microapp": "dev-add_ecpay"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "/home/yxz/samba_share/other_project/tt-microapp"
+        }
+    ]
+}
